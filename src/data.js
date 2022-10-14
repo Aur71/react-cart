@@ -20,7 +20,7 @@ const data = [
     title: 'Xiaomi',
     price: 699.99,
     amount: 1,
-    img: 'https://assets.stickpng.com/thumbs/58adf025e612507e27bd3c2e.png',
+    img: 'https://purepng.com/public/uploads/large/purepng.com-xiaomismartphoneandroidgooglephoneapplication-211519341570534ng.png',
   },
 ];
 

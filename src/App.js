@@ -1,5 +1,4 @@
 import React from 'react';
-import { useGlobalContext } from './Context';
 
 import Navbar from './Navbar';
 import CartContainer from './CartContainer';
