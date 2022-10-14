@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-cart/static/css/main.523b6ddb.css",
+    "main.js": "/react-cart/static/js/main.7ccbeddb.js",
+    "index.html": "/react-cart/index.html",
+    "main.523b6ddb.css.map": "/react-cart/static/css/main.523b6ddb.css.map",
+    "main.7ccbeddb.js.map": "/react-cart/static/js/main.7ccbeddb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.523b6ddb.css",
+    "static/js/main.7ccbeddb.js"
+  ]
+}
