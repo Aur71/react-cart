@@ -12,7 +12,7 @@ const data = [
     title: 'Google Pixel',
     price: 499.99,
     amount: 1,
-    img: 'https://assets.stickpng.com/images/58aefac1c869e092af51ee68.png',
+    img: 'https://dl.airtable.com/.attachments/91c88ae8c1580e2b762ecb3f73ed1eed/a633139a/phone-1_gvesln.png',
   },
 
   {
